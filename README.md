@@ -4,9 +4,11 @@ I will share my experiences during my summer research, with Dr.Ricardo Vilalta o
 
 In current stage we are going over some old papers to get familirize with the subject. [Here are the papers](https://github.com/BedirT/Equation-Discovery/edit/master/papers/) if you are interested. We also following a book for the early stages.
 
-**The Book: **Scientific Discovery: Computational Explorations of the Creative Process
-**Official Press: **https://mitpress.mit.edu/books/scientific-discovery
-**Authors: ** Patrick W. Langley, Herbert A. Simon, Gary Bradshaw and Jan M. Zytkow
+**The Book:** Scientific Discovery: Computational Explorations of the Creative Process
+
+**Official Press:** https://mitpress.mit.edu/books/scientific-discovery
+
+**Authors:** Patrick W. Langley, Herbert A. Simon, Gary Bradshaw and Jan M. Zytkow
 
 ### What is the task of equation discovery?
 
